@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\abcTOR\abcTOR\bin\Debug\abcTOR.exe.config
+C:\Users\Admin\source\repos\abcTOR\abcTOR\bin\Debug\abcTOR.exe
+C:\Users\Admin\source\repos\abcTOR\abcTOR\bin\Debug\abcTOR.pdb
+C:\Users\Admin\source\repos\abcTOR\abcTOR\obj\Debug\abcTOR.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\abcTOR\abcTOR\obj\Debug\abcTOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\abcTOR\abcTOR\obj\Debug\abcTOR.Form1.resources
+C:\Users\Admin\source\repos\abcTOR\abcTOR\obj\Debug\abcTOR.Properties.Resources.resources
+C:\Users\Admin\source\repos\abcTOR\abcTOR\obj\Debug\abcTOR.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\abcTOR\abcTOR\obj\Debug\abcTOR.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\abcTOR\abcTOR\obj\Debug\abcTOR.exe
+C:\Users\Admin\source\repos\abcTOR\abcTOR\obj\Debug\abcTOR.pdb
